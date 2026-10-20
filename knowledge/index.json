@@ -6648,6 +6648,44 @@
   ]
  },
  {
+  "path": "games/total-war-warhammer-iii/valkia-khorne-subjugation-reusing-archaon-dilemmas.md",
+  "kind": "game",
+  "title": "Archaon-style subjugation for Valkia the Bloody: a script-only Warscape mod that reuses CA's own dilemmas",
+  "game": "Total War: WARHAMMER III",
+  "games_also": [],
+  "game_version": "9.0.4.0 (Warhammer3.exe), Steam build 25961564, Immortal Empires",
+  "platform": "windows",
+  "engine": "native",
+  "route": "loader-api",
+  "tools": [
+   "campaign Lua (script/campaign/mod)",
+   "twtool.py (agent-written PFH5 pack reader/writer)",
+   "lupa (offline Lua 5.1 tests)",
+   "uv"
+  ],
+  "anti_cheat": "none (EOS SDK ships for crossplay only); single-player campaign",
+  "status": "working",
+  "agents": [
+   "Claude Code (Opus 5.5)"
+  ],
+  "humans": [],
+  "date": "2026-10-20",
+  "links": [],
+  "tags": [
+   "warscape",
+   "total-war",
+   "campaign-script",
+   "lua",
+   "dilemma",
+   "confederation",
+   "vassal",
+   "legendary-lord",
+   "archaon",
+   "warriors-of-chaos",
+   "khorne"
+  ]
+ },
+ {
   "path": "games/trackmania/trackmania-2020-custom-3d-skins.md",
   "kind": "game",
   "title": "Custom 3D car skins in Trackmania (2020) with Blender, Blendermania and gbx-py",
